@@ -30,6 +30,12 @@
   --font-size-large: 1.25rem;
   --font-size-xlarge: 1.5rem;
   --font-size-2xlarge: 2.5rem;
+
+  --py-base: 1rem;
+  --py-lg: 1.5rem;
+  --py-xl: 3rem;
+
+  --px-lg: 1.5rem;
 }
 
 html {
@@ -80,5 +86,11 @@ ul[role="list"] {
     --font-size-large: 2rem;
     --font-size-xlarge: 3rem;
     --font-size-2xlarge: 4rem;
+
+    --py-base: 1rem;
+    --py-lg: 1.5rem;
+    --py-xl: 3rem;
+
+    --px-lg: 2rem;
   }
 }
